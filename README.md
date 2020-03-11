@@ -1,2 +1,2 @@
 # brandonhumphry.github.io
-My Personal GitHUb
+My Personal GitHub
